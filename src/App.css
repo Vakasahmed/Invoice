@@ -1,0 +1,88 @@
+
+.ant-btn{
+  background-color: rgb(71, 4, 134);
+}
+
+.ant-btn:hover{
+  background-color: rgb(71, 4, 134) !important;
+  border: none !important;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.upload{
+  width: 50vw;
+  background-color: rgb(207, 205, 205);
+  height: 100vh;
+}
+.sidebar{
+  width: 50vw;
+}
+.heading{
+  width: 100%;
+  background-color: rgb(211, 204, 204);
+  text-align: start;
+  padding: 5px;
+}
+.detail{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 30px;
+  margin-bottom: 20px;
+}
+.searchImg{
+  width: 22px;
+  background-color: black;
+  cursor: pointer;
+  position: absolute;
+  left: 200px;
+}
+.rpl{
+  width: 50%;
+  text-align: start;
+}
+.alert{
+  width: 20px;
+  cursor: pointer;
+}
+.input{
+width: 210px;
+}
+.leftBar{
+  width: 50vw;
+}
+.down{
+  display: flex;
+}
+.ant-anchor-wrapper .ant-anchor .ant-anchor-link-active>.ant-anchor-link-title{
+  color: rgb(71, 4, 134);
+}
+.ant-anchor-wrapper:not(.ant-anchor-horizontal) .ant-anchor .ant-anchor-ink{
+  background-color: rgb(71, 4, 134);
+}
+.btm{
+  background-color: white;
+  padding: 10px;
+  margin-right: 5px;
+}
+.val{
+  color: rgb(9, 236, 9);
+}
+.ant-layout-content{
+  padding: 0px !important;
+}
+.alrt{
+  display: flex;
+  align-items: center;
+}
+.uploadInv:hover{
+ background-color: white !important;
+ color: black !important;
+ border: none !important;
+}
+.ant-input:hover{
+ border-color: rgb(71, 4, 134) !important;
+}
